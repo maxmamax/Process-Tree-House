@@ -1,0 +1,9 @@
+การ Run Project 
+
+Step 1 ติดตั้งโปรแกรม Node JS
+Step 2 เปิด Command Node JS
+Step 3 Cd เข้า Part File Folder -> cd Process Tree House
+Step 4 npm i หรือ npm i fs เพื่อติดตั้ง Module อ่านไฟล์ Input text
+Step 5 สร้างไฟล์ Input text ชื่อไฟล์ data.txt
+Step 6 พิมพ์คำสั่ง node app.js เพื่อ run program
+Step 7 ผลลัพธ์โชว์ทางหน้าจอ Commmand
